@@ -1,16 +1,12 @@
-### Hi there 👋
+# gasnicowydivolper (OLOMIK) 💻
+### lubie pisac backend, pluginy mc itp.
+## Moje projekty:
+- 📝 Nota (notatnik programistyczny, wsparcie tylko do v9)
+- 🖼️ ColorBJ (edytor grafiki)
+- 🧨 RzucakClicker (rozbudowany clicker open-source (winforms c#, unity, olomowo engine) (brak wsparcia dla wersji olomowo engine)
+- 💡 RandomLight (plugin minecraft stawiający w losowych miejscach światło (aktualnie wspieram ja))
+- 🖼️ IMA (mniej rozbudowany edytor grafiki niż colorbj, nie open-source, brak wsparcia, stary projekt)
 
-<!--
-**OLOMIK/OLOMIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Discord:
+[*klik*](https://discord.gg/JJayWyCzBV)
+(gasnicowy)
