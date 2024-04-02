@@ -1,5 +1,5 @@
 # gasnicowydivolper (OLOMIK) 💻
-### I like writing backend, MC plugins, etc.
+### 14-year-old backend developer from Poland
 ## My projects:
 - 📝 Nota (programming notebook, support only up to v9)
 - 🖼️ ColorBJ (graphic editor)
