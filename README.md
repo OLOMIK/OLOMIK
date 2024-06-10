@@ -10,3 +10,6 @@
 # Discord:
 [*click*](https://discord.gg/JJayWyCzBV)
 (gasnicowydivolper)
+
+
+<a href="https://app.daily.dev/gasnicowydivolper"><img src="https://api.daily.dev/devcards/v2/umQPTeDp0nOLu8nExHF9v.png?r=hvc&type=default" width="356" alt="Gasnicowyy's Dev Card"/></a>
