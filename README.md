@@ -7,6 +7,6 @@
 - 💡 RandomLight (a minecraft plugin that puts light in random places (currently supported by me))
 - 🖼️ IMA (less powerful graphics editor than colorbj, not open-source, no support, old project)
 
-# Discord:
+### Discord:
 [*click*](https://discord.gg/JJayWyCzBV)
 (gasnicowydivolper)
