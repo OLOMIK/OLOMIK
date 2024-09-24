@@ -9,4 +9,3 @@
 ---
 ### Discord:
 [*click*](https://discord.gg/JJayWyCzBV)
-(gasnicowydivolper)
