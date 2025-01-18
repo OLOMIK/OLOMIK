@@ -1,5 +1,5 @@
 # gasnicowydivolper (OLOMIK) 💻
-### 14-year-old fullstack developer from Poland
+### 15-year-old fullstack developer from Poland
 ## My projects:
 - 📝 Nota (programming notepad, support only up to v9+)
 - 🖼️ ColorBJ (graphic editor)
