@@ -23,10 +23,11 @@
 | :--- | :--- | :--- |
 | 📝 **Nota** | Advanced programming notepad built for efficiency. | `v9+ Supported` |
 | 🖼 **ColorBJ** | Feature-rich graphic editor for creative minds. | `Active` |
+| 🛜 **GAMP** | Modern XAMPP rebuild, native for MacOS. | `Active` |
 | 🖱 **RzucakClicker** | Extensive open-source clicker (WinForms, Unity). | `Legacy` |
 | 💡 **RandomLight** | Minecraft plugin for dynamic, randomized lighting. | `Maintained` |
 | 🖼 **IMA** | Lightweight, classic graphics editor. | `Archived` |
-
+| 🛴 **EsManager** |iOS app that manages your KuKirin electric scooter. | `Work in progress` |
 
 
 ## 📊 GitHub Stats
