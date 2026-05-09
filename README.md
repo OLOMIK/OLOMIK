@@ -1,4 +1,4 @@
-# ⚡ gasnicowydivolper (OLOMIK)
+# ⚡ gasnicowydivolper (gasnicowyy)
 
 ### 🚀 Fullstack Developer from Poland
 
@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-![OLOMIK's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=olomik)
+![OLOMIK's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=gasnicowyy)
 
 
 ## 🌐 Get in Touch
